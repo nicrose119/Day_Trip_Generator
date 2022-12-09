@@ -1,0 +1,4 @@
+destinations = ['New York City', 'Miami', 'Malibu', 'Aspen', 'Nashville']
+restaurants = ['Prime & Proper Steak House', 'Calexico', 'Slows BBQ', 'Island Eats', 'Bessa']
+transportation = ['Plane', 'Train', 'Helicoptor', 'RV', 'Charter Bus']
+entertainment = ['Live Theatre', 'Concert', 'Day at the Spa', 'Guided Tour of citys attractions', 'Sky Diving']
