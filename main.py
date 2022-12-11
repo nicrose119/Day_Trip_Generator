@@ -18,3 +18,5 @@
     #Random Selection for each list
     
 # (15 points): As a user, I want to be able to randomly re-select a destination, restaurant, mode of transportation, and/or form of entertainment if I don’t like one or more of those things.
+
+
