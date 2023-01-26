@@ -15,13 +15,15 @@ def display_trip(selections_list):
         print(selection)
 
 
-
 user_response = 'n'
 while user_response != 'y':
     trip = generate_trip()
     display_trip(trip)
-    user_response = input("Are you satisfied with your trip? y/n ") 
+    user_response = input("Are you satisfied with your trip? y/n \n" ) 
+
     if user_response == 'y':
-        print("Here are the details of your final trip!")
+        print("Here are the final details of your random day trip:\n" )
         display_trip(trip)
+        print("")
+        print ("Enjoy!no")
 
