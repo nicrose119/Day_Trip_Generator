@@ -22,7 +22,8 @@ while user_response != 'y':
     user_response = input("Are you satisfied with your trip? y/n \n" ) 
     if user_response == 'y':
         print("Here are the final details of your random day trip:\n" )
+        print("***")
         display_trip(trip)
+        print("***")
+        print ("Enjoy!")
         print("")
-        print ("Enjoy!no")
-
